@@ -7,9 +7,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./page/layout";
 import Home from "./page/home";
-import Order from "./page/order";
-import Login from "./page/login";
-import Register from "./page/register";
+// import Order from "./page/order";
+// import Login from "./page/login";
+// import Register from "./page/register";
 import "mdb-react-ui-kit/dist/css/mdb.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
@@ -19,10 +19,10 @@ root.render(
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path="/order" element={<Order />} />
+        {/* <Route path="/order" element={<Order />} /> */}
       </Route>
-      <Route path="/login" element={<Login />} />
-      <Route path="/register" element={<Register />} />
+      {/* <Route path="/login" element={<Login />} /> */}
+      {/* <Route path="/register" element={<Register />} /> */}
     </Routes>
   </BrowserRouter>
 );
