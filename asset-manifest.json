@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/CodeFe/static/css/main.f855e6bc.css",
-    "main.js": "/CodeFe/static/js/main.673c8d5d.js",
+    "main.css": "/CodeFe/static/css/main.fe282699.css",
+    "main.js": "/CodeFe/static/js/main.3e8dadda.js",
     "static/js/453.a6a97343.chunk.js": "/CodeFe/static/js/453.a6a97343.chunk.js",
+    "static/media/fa-solid-900.ttf": "/CodeFe/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/CodeFe/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/CodeFe/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/CodeFe/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/CodeFe/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/CodeFe/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/CodeFe/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/CodeFe/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "static/media/logo.svg": "/CodeFe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CodeFe/index.html",
-    "main.f855e6bc.css.map": "/CodeFe/static/css/main.f855e6bc.css.map",
-    "main.673c8d5d.js.map": "/CodeFe/static/js/main.673c8d5d.js.map",
+    "main.fe282699.css.map": "/CodeFe/static/css/main.fe282699.css.map",
+    "main.3e8dadda.js.map": "/CodeFe/static/js/main.3e8dadda.js.map",
     "453.a6a97343.chunk.js.map": "/CodeFe/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.673c8d5d.js"
+    "static/css/main.fe282699.css",
+    "static/js/main.3e8dadda.js"
   ]
 }
